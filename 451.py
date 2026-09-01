@@ -11,6 +11,5 @@ class Solution:
         for k,v in dit.items():
             s+=k*v
 
-        
         return s
         
